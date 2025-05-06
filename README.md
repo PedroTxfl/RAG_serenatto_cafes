@@ -1,4 +1,4 @@
-# RAG_serenatto_cafes
+# RAG Serenatto Cafés
 ### https://rag-serenatto-cafes.vercel.app/
 
 # Projeto Langflow: Chatbot Inteligente com Base de Conhecimento
