@@ -2,6 +2,7 @@
 ### https://rag-serenatto-cafes.vercel.app/
 
 # Projeto Langflow: Chatbot Inteligente com Base de Conhecimento
+### No Code
 
 Este projeto utiliza o Langflow para criar um chatbot inteligente capaz de responder a perguntas com base em um conhecimento específico fornecido através de arquivos.
 
